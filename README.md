@@ -1,7 +1,8 @@
-# Liver Patient Prediction
+# Indian Liver Patient Prediction
+### Domain: Health Care
 
 ## Project Overview
-This project aims to predict whether a patient has liver disease based on clinical parameters using machine learning classification models.
+Patients with Liver disease have been continuously increasing because of excessive consumption of alcohol, inhale of harmful gases, intake of contaminated food, pickles and drugs. This dataset was used to evaluate prediction algorithms in an effort to reduce burden on doctors.This project aims to predict whether a patient has liver disease based on clinical parameters collected from North East of Andhra Pradesh, India, using machine learning classification models. This data set contains 441 male patient records and 142 female patient records.
 
 ## Dataset
 - Dataset: Indian Liver Patient Dataset
