@@ -50,3 +50,6 @@ Random Forest was selected for further evaluation using confusion matrix and cla
 1. Clone this repository
 2. Install required libraries
 3. Open the notebook and run all cells
+
+## Author 
+Rikita Mondal
